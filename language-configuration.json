@@ -1,0 +1,6 @@
+{
+    "indentationRules": {
+        "increaseIndentPattern": "(dog|cat|meow)",
+        "decreaseIndentPattern": "/^\\s*(else|end|\\})\\s*$|^\\s*elseif\b((?!end).)*$/"
+    }
+}
